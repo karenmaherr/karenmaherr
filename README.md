@@ -63,9 +63,6 @@ I am a Software Engineering student building my path toward Agentic AI from the 
 
 <br/>
 
-
-<br/>
-
 ## Activity
 
 <div align="center">
