@@ -15,7 +15,7 @@
 
 ## About Me
 
-I am a Software Engineering student building my path toward Agentic AI from the ground up. I care about understanding why a model behaves the way it does, not only getting it to run, and I am now moving from classic ML and deep learning into systems that can plan, use tools, and act on their own.
+I am a Software Engineering student building my path toward Agentic AI from the ground up. I care about understanding why a model behaves the way it does, not only getting it to run, and I am now moving from ML and deep learning into systems that can plan, use tools, and act on their own.
 
 <br/>
 
