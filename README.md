@@ -76,4 +76,4 @@ I am a Software Engineering student building my path toward Agentic AI from the 
 I am open to conversations about machine learning, agentic AI, and learning paths in this field.
 Reach me on [LinkedIn](https://www.linkedin.com/in/karenmaherr) or at karenmaher258@gmail.com.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=600&color=0:4169e1,45:4c1d95,100:1e2a5e&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=0:4169e1,45:4c1d95,100:1e2a5e&section=footer" width="100%" alt="footer"/>
