@@ -63,12 +63,6 @@ I am a Software Engineering student building my path toward Agentic AI from the 
 
 <br/>
 
-## The loop I work in
-
-```text
-  observe  ->  plan  ->  act  ->  reflect
-  
-```
 
 <br/>
 
