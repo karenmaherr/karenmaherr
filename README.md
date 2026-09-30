@@ -66,7 +66,6 @@ I am a Software Engineering student building my path toward Agentic AI from the 
 ## Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karenmaherr&show_icons=true&hide_border=true&bg_color=0f0a1f&title_color=4f7cff&icon_color=a855f7&text_color=cbd5e1&text_bold=false&count_private=true" height="165" alt="GitHub stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karenmaherr&layout=compact&hide_border=true&bg_color=0f0a1f&title_color=4f7cff&text_color=cbd5e1" height="165" alt="Top languages"/>
 </div>
 
