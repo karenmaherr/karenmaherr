@@ -22,10 +22,10 @@
 class Karen:
     studying   = "Software Engineering"
     heading_to = "Agentic AI Engineer"
-    based_in   = "Asyut, Egypt"
+    based_in   = "Egypt"
 
     foundation = ["Python", "OOP", "APIs", "Data preprocessing"]
-    learning   = ["Machine Learning", "Deep Learning (PyTorch)", "Agentic systems"]
+    learning   = ["Machine Learning", "Deep Learning (PyTorch)"," "Agentic systems"]
 
     def approach(self):
         # no shortcuts through the basics
@@ -60,7 +60,7 @@ I am a Software Engineering student building my path toward Agentic AI from the 
 ## Toolbox
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,numpy,pandas,opencv,git,github,vscode&theme=dark" alt="Toolbox"/>
+  <img src="https://skillicons.dev/icons?i=py,pytorch,opencv,git,vscode&theme=dark" alt="Toolbox"/>
 </div>
 
 <br/>
