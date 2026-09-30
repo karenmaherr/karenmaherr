@@ -5,6 +5,7 @@
 <a href="https://github.com/karenmaherr">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1100&color=818cf8&center=true&vCenter=true&width=720&height=40&lines=Building+AI+that+plans%2C+decides%2C+and+acts.;Started+from+the+fundamentals+on+purpose.;Python+%C2%B7+PyTorch+%C2%B7+Agentic+Systems." alt="Typing animation" />
 </a>
+
 <br/>
 
 <a href="https://www.linkedin.com/in/karenmaherr"><img src="https://img.shields.io/badge/LinkedIn-karenmaherr-1e2a5e?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -43,6 +44,7 @@ I am a Software Engineering student building my path toward Agentic AI from the 
 </table>
 
 <br/>
+
 ## Tech Stack
 
 <div align="center">
