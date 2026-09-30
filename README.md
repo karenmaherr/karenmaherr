@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f0a1f,55:4c1d95,100:4169e1&text=Karen%20Maher&fontColor=e2e8f0&fontSize=58&fontAlignY=38&desc=AI%20Practitioner%20%C2%B7%20Agentic%20AI&descColor=93b4ff&descSize=20&descAlignY=60&animation=fadeIn" alt="Karen Maher header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f0a1f,55:4c1d95,100:1e3a8a&text=Karen%20Maher&fontColor=e2e8f0&fontSize=58&fontAlignY=38&desc=Building%20a%20path%20toward%20Agentic%20AI&descColor=93b4ff&descSize=20&descAlignY=60&animation=fadeIn" alt="Karen Maher header" width="100%"/>
 
 <a href="https://github.com/karenmaherr">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1100&color=4f7cff&center=true&vCenter=true&width=720&height=40&lines=Building+AI+that+plans%2C+decides%2C+and+acts.;Started+from+the+fundamentals+on+purpose.;Python+%C2%B7+PyTorch+%C2%B7+Agentic+Systems." alt="Typing animation" />
@@ -42,6 +42,9 @@ I am a Software Engineering student building my path toward Agentic AI from the 
       <b>Deep learning</b><br/>
       <sub>Building and training models in PyTorch, and learning to read what the training is actually telling me.</sub>
     </td>
+    <td width="33%" valign="top">
+      <b>Computer vision and data</b><br/>
+      <sub>Preprocessing pipelines, image models, and the unglamorous data work that decides whether a model is any good.</sub>
     </td>
     <td width="33%" valign="top">
       <b>Agentic systems</b><br/>
