@@ -17,19 +17,6 @@
 
 ## About Me
 
-```python
-class Karen:
-    studying   = "Software Engineering"
-    heading_to = "Agentic AI Engineer"
-    based_in   = "Egypt"
-
-    foundation = ["Python", "OOP", "APIs", "Data preprocessing"]
-    learning   = ["Machine Learning", "Deep Learning (PyTorch)","Large Language Models", "Agentic systems"]
-
-    def approach(self):
-        return "understand it -> build it small -> break it -> fix it -> repeat"
-```
-
 I am a Software Engineering student building my path toward Agentic AI from the ground up. I care about understanding why a model behaves the way it does, not only getting it to run, and I am now moving from classic ML and deep learning into systems that can plan, use tools, and act on their own.
 
 <br/>
