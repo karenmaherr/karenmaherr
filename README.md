@@ -27,7 +27,6 @@ class Karen:
     learning   = ["Machine Learning", "Deep Learning (PyTorch)","Large Language Models", "Agentic systems"]
 
     def approach(self):
-        # no shortcuts through the basics
         return "understand it -> build it small -> break it -> fix it -> repeat"
 ```
 
@@ -68,7 +67,7 @@ I am a Software Engineering student building my path toward Agentic AI from the 
 
 ```text
   observe  ->  plan  ->  act  ->  reflect
-     ^                               |
+  
 ```
 
 The same loop I am learning to build into agents is the one I use to learn: read the problem properly, break it down, ship something small, then look honestly at what went wrong.
