@@ -8,8 +8,6 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/karenmaherr"><img src="https://img.shields.io/badge/LinkedIn-karenmaherr-1e2a5e?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:karenmaher258@gmail.com"><img src="https://img.shields.io/badge/Email-karenmaher258%40gmail.com-4c1d95?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
 
@@ -42,20 +40,11 @@ I am a Software Engineering student building my path toward Agentic AI from the 
 
 <br/>
 
-## Toolbox
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,sklearn,pytorch,opencv,git,vscode,linux&theme=dark" alt="Toolbox"/>
-</div>
-
-<br/>
-
 
 <br/>
 
 ## Get in touch
 
-I am open to conversations about machine learning, agentic AI, and learning paths in this field.
 Reach me on [LinkedIn](https://www.linkedin.com/in/karenmaherr) or at karenmaher258@gmail.com.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=0:4169e1,45:4c1d95,100:1e2a5e&section=footer" width="100%" alt="footer"/>
