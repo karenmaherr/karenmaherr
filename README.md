@@ -64,11 +64,6 @@ I am a Software Engineering student building my path toward Agentic AI from the 
 <br/>
 
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=karenmaherr&hide_border=true&background=0f0a1f&ring=4f7cff&fire=a855f7&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=4f7cff&sideLabels=cbd5e1&dates=64748b" alt="Streak"/>
-</div>
-
-
 <br/>
 
 ## Get in touch
