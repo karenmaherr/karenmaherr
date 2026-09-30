@@ -20,7 +20,7 @@
 
 ## About Me
 
-I am a Software Engineering student building my path toward Agentic AI from the ground up. I care about understanding why a model behaves the way it does, not only getting it to run, and I am now moving from ML and deep learning into systems that can plan, use tools, and act on their own.
+Software Engineering student building my path toward Agentic AI from the ground up. I am passionated about understanding why a model behaves the way it does, and I am now moving from ML and deep learning into systems that can use tools, and act on their own.
 
 <br/>
 
@@ -49,6 +49,7 @@ I am a Software Engineering student building my path toward Agentic AI from the 
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,sklearn,pytorch,opencv,git,linux&theme=dark" alt="Toolbox"/>
+  <img src="https://img.shields.io/badge/LangGraph-1e2a5e?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" align="absmiddle"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=53&color=0:1e2a5e,45:4c1d95,100:1e2a5e&section=footer" width="100%" alt="footer"/>
