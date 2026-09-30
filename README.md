@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f0a1f,55:4c1d95,100:1e3a8a&text=Karen%20Maher&fontColor=e2e8f0&fontSize=58&fontAlignY=38&desc=Building%20a%20path%20toward%20Agentic%20AI%20Engineering&descColor=93b4ff&descSize=20&descAlignY=60&animation=fadeIn" alt="Karen Maher header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f0a1f,55:4c1d95,100:1e3a8a&text=Karen%20Maher&fontColor=e2e8f0&fontSize=58&fontAlignY=38&desc=Building%20the%20path%20toward%20Agentic%20AI%20Engineering&descColor=93b4ff&descSize=20&descAlignY=60&animation=fadeIn" alt="Karen Maher header" width="100%"/>
 
 <a href="https://github.com/karenmaherr">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1100&color=4f7cff&center=true&vCenter=true&width=720&height=40&lines=Building+AI+that+plans%2C+decides%2C+and+acts.;Started+from+the+fundamentals+on+purpose.;Python+%C2%B7+PyTorch+%C2%B7+Agentic+Systems." alt="Typing animation" />
@@ -58,7 +58,7 @@ I am a Software Engineering student building my path toward Agentic AI from the 
 ## Toolbox
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,opencv,git,vscode&theme=dark" alt="Toolbox"/>
+  <img src="https://skillicons.dev/icons?i=py,sklearn,pytorch,opencv,git,vscode,linux&theme=dark" alt="Toolbox"/>
 </div>
 
 <br/>
@@ -69,8 +69,6 @@ I am a Software Engineering student building my path toward Agentic AI from the 
   observe  ->  plan  ->  act  ->  reflect
   
 ```
-
-The same loop I am learning to build into agents is the one I use to learn: read the problem properly, break it down, ship something small, then look honestly at what went wrong.
 
 <br/>
 
