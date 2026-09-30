@@ -49,7 +49,8 @@ Software Engineering student building my path toward Agentic AI from the ground 
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,sklearn,pytorch,opencv,git,linux&theme=dark" alt="Toolbox"/>
-  <img src="https://img.shields.io/badge/LangGraph-1e2a5e?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" align="absmiddle"/>
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langgraph-color.svg" alt="LangGraph" width="48" height="48" align="absmiddle"/>
+</div>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=53&color=0:1e2a5e,45:4c1d95,100:1e2a5e&section=footer" width="100%" alt="footer"/>
