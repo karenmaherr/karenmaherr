@@ -48,7 +48,7 @@ I am a Software Engineering student building my path toward Agentic AI from the 
 ## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,sklearn,pytorch,opencv,git,vscode,linux&theme=dark" alt="Toolbox"/>
+  <img src="https://skillicons.dev/icons?i=py,sklearn,pytorch,opencv,git,linux&theme=dark" alt="Toolbox"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=53&color=0:1e2a5e,45:4c1d95,100:1e2a5e&section=footer" width="100%" alt="footer"/>
