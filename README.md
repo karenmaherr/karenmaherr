@@ -15,7 +15,7 @@
 
 <br/>
 
-## whoami
+## About Me
 
 ```python
 class Karen:
@@ -34,7 +34,7 @@ I am a Software Engineering student building my path toward Agentic AI from the 
 
 <br/>
 
-## Focus right now
+## Current Focus
 
 <table>
   <tr>
@@ -63,11 +63,6 @@ I am a Software Engineering student building my path toward Agentic AI from the 
 
 <br/>
 
-## Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karenmaherr&layout=compact&hide_border=true&bg_color=0f0a1f&title_color=4f7cff&text_color=cbd5e1" height="165" alt="Top languages"/>
-</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=karenmaherr&hide_border=true&background=0f0a1f&ring=4f7cff&fire=a855f7&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=4f7cff&sideLabels=cbd5e1&dates=64748b" alt="Streak"/>
@@ -81,4 +76,4 @@ I am a Software Engineering student building my path toward Agentic AI from the 
 I am open to conversations about machine learning, agentic AI, and learning paths in this field.
 Reach me on [LinkedIn](https://www.linkedin.com/in/karenmaherr) or at karenmaher258@gmail.com.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:4169e1,45:4c1d95,100:1e2a5e&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=600&color=0:4169e1,45:4c1d95,100:1e2a5e&section=footer" width="100%" alt="footer"/>
