@@ -48,7 +48,7 @@ Software Engineering student building my path toward Agentic AI from the ground 
 ## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,sklearn,pytorch,opencv,git,linux&theme=dark" alt="Tech Stack" height="48" align="absmiddle"/>
+  <img src="https://skillicons.dev/icons?i=py,sklearn,pytorch,opencv,git&theme=dark" alt="Tech Stack" height="48" align="absmiddle"/>
   <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langgraph-color.svg" alt="LangGraph" width="48" height="48" align="absmiddle"/>
 </div>
 </div>
