@@ -5,6 +5,10 @@
 <a href="https://github.com/karenmaherr">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1100&color=818cf8&center=true&vCenter=true&width=720&height=40&lines=Building+AI+that+plans%2C+decides%2C+and+acts.;Started+from+the+fundamentals+on+purpose.;Python+%C2%B7+PyTorch+%C2%B7+Agentic+Systems." alt="Typing animation" />
 </a>
+<br/>
+
+<a href="https://www.linkedin.com/in/karenmaherr"><img src="https://img.shields.io/badge/LinkedIn-karenmaherr-1e2a5e?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:karenmaher258@gmail.com"><img src="https://img.shields.io/badge/Email-karenmaher258%40gmail.com-4c1d95?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br/>
 
@@ -39,9 +43,10 @@ I am a Software Engineering student building my path toward Agentic AI from the 
 </table>
 
 <br/>
+## Tech Stack
 
-## Get in touch
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,sklearn,pytorch,opencv,git,vscode,linux&theme=dark" alt="Toolbox"/>
+</div>
 
-Reach me on [LinkedIn](https://www.linkedin.com/in/karenmaherr) or at karenmaher258@gmail.com.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=53&color=0:4169e1,45:4c1d95,100:1e2a5e&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=53&color=0:1e2a5e,45:4c1d95,100:1e2a5e&section=footer" width="100%" alt="footer"/>
