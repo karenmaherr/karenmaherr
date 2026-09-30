@@ -85,9 +85,6 @@ The same loop I am learning to build into agents is the one I use to learn: read
   <img src="https://streak-stats.demolab.com?user=karenmaherr&hide_border=true&background=0f0a1f&ring=4f7cff&fire=a855f7&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=4f7cff&sideLabels=cbd5e1&dates=64748b" alt="Streak"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karenmaherr&bg_color=0f0a1f&color=4f7cff&line=a855f7&point=e2e8f0&area=true&area_color=4c1d95&hide_border=true&radius=8" width="100%" alt="Contribution graph"/>
-</div>
 
 <br/>
 
