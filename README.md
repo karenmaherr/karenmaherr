@@ -40,9 +40,6 @@ I am a Software Engineering student building my path toward Agentic AI from the 
 
 <br/>
 
-
-<br/>
-
 ## Get in touch
 
 Reach me on [LinkedIn](https://www.linkedin.com/in/karenmaherr) or at karenmaher258@gmail.com.
