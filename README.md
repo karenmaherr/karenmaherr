@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f0a1f,40:4c1d95,70:1e2a5e,100:1e2a5e&text=Karen%20Maher&fontColor=e2e8f0&fontSize=58&fontAlignY=38&desc=Building%20the%20path%20toward%20Agentic%20AI%20Engineering&descColor=93b4ff&descSize=20&descAlignY=60&animation=fadeIn" alt="Karen Maher header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f0a1f,40:4c1d95,70:1e2a5e,100:1e2a5e&text=Karen&fontColor=e2e8f0&fontSize=58&fontAlignY=38&desc=Building%20the%20path%20toward%20Agentic%20AI%20Engineering&descColor=93b4ff&descSize=20&descAlignY=60&animation=fadeIn" alt="Karen Maher header" width="100%"/>
 
 
 <br/>
