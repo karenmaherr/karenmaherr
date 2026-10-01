@@ -50,4 +50,4 @@ Software Engineering student building my path toward Agentic AI from the ground 
 </div>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=51&color=0:1e2a5e,45:4c1d95,100:1e2a5e&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=54&color=0:1e2a5e,45:4c1d95,100:1e2a5e&section=footer" width="100%" alt="footer"/>
