@@ -29,9 +29,7 @@ Software Engineering student building my path toward Agentic AI from the ground 
       <b>Deep learning</b><br/>
       <sub>Building and training models in PyTorch, and learning to read what the training is actually telling me.</sub>
     </td>
-    <td width="33%" valign="top">
-      <b>Computer vision and data</b><br/>
-      <sub>Preprocessing pipelines, image models, and the unglamorous data work that decides whether a model is any good.</sub>
+    <td
     </td>
     <td width="33%" valign="top">
       <b>Agentic systems</b><br/>
